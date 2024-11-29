@@ -18,7 +18,7 @@ const Footer = () => {
               />
             </Link>
             <p className="text-gray-400">
-              Your trusted partner in industrial chemical manufacturing since 1970.
+              Your trusted partner in industrial chemical manufacturer.
             </p>
           </div>
 
